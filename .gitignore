@@ -1,0 +1,13 @@
+*.class
+*.jar
+*.log
+/.env
+/.lein-*
+/.nrepl-port
+/checkouts
+/classes
+/lib
+/target
+/testreports.xml
+pom.xml
+/src/common/version.clj
